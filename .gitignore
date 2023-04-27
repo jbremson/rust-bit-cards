@@ -12,4 +12,5 @@ Cargo.lock
 # My files
 venv/
 .idea/
+.vscode/
 
